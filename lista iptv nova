@@ -1,15 +1,3 @@
-#EXTM3U
- 
- 
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sempre Atualizando.: 19/01/2019
-Http://0.0.0.0
- 
-#EXTINF:0 tvg-id="ext" group-title="Channels", Criada Por Vanderson
-http://0.0.0.0
- 
-#EXTINF:0 tvg-id="ext" group-title="Channels",Links TEMPORARIOS
-http://0.0.0.0
-
 
 #EXTM3U
 #EXTINF:0 tvg-id="AyE.mx" group-title="Channels",A&E HD
