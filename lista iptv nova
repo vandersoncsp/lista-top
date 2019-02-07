@@ -8,11 +8,6 @@ Http://0.0.0.0
 https://www.facebook.com/vanderson.paludo
 #EXTINF:0 tvg-id="ext" group-title="Link", Links Temporarios
 http://0.0.0.0
-#EXTM3U
-#EXTINF:0 tvg-id="avi" group-title="LHMTv",AVISO LEGAL
-http://img1.lhmtv.cf/8/items/LHMTvAviso/lhmtvaviso.mp4?LHMTv
-#EXTINF:0 tvg-id="ext" group-title="LHMTv",FB.COM/LHMTv
-http://0.0.0.0
 
 #EXTINF:0 tvg-id="avi" group-title="13 Reasons Why",1T-E01 Fita 1. Lado A
 http:/media.lhmtv.ga/series/13rw/s01e01-dub-720p.mp4?LHMTv
